@@ -5946,7 +5946,7 @@ postcss-reduce-transforms@^5.1.0:
   dependencies:
     postcss-value-parser "^4.2.0"
 
-postcss-rtl@^3.5.3:
+postcss-rtl@2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/postcss-rtl/-/postcss-rtl-2.0.0.tgz"
   integrity sha512-vFu78CvaGY9BafWRHNgDm6OjUxzRCWWCrp+KtnyXdgwibLwb/j5ls8Z/ubvOsk9B/Q2NLwSPrXRARKMaa9RBmA==
